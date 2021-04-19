@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="142ca6a3-6a86-4de6-afba-5a5b09ce55bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="7e5ea179-2528-4699-a67c-ac1288dc4414" />
+  <component name="ProjectId" id="1mGGvx7r5MjoPWEIDEIvdcCQhjj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Imagens" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$USER_HOME$/Downloads/svm" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SVMSklearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="142ca6a3-6a86-4de6-afba-5a5b09ce55bd" name="Default Changelist" comment="" />
+      <created>1609112749305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609112749305</updated>
+      <workItem from="1609112750752" duration="1272000" />
+      <workItem from="1609526701881" duration="14982000" />
+      <workItem from="1610308977199" duration="288000" />
+      <workItem from="1610311739696" duration="105000" />
+      <workItem from="1610392716322" duration="37000" />
+      <workItem from="1610760638006" duration="430000" />
+      <workItem from="1610765067897" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2021" y="177" width="475" height="515" key="FileChooserDialogImpl" timestamp="1610760743175">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="466" y="294" width="424" height="514" key="FileChooserDialogImpl/1366.0.1920.1080/0.168.1366.768@0.168.1366.768" timestamp="1609702602975" />
+    <state x="2021" y="177" width="475" height="515" key="FileChooserDialogImpl/1366.0.1920.1080/0.168.1366.768@1366.0.1920.1080" timestamp="1610760743175" />
+    <state width="1870" height="517" key="GridCell.Tab.0.bottom" timestamp="1610765111350">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1316" height="350" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.168.1366.768@0.168.1366.768" timestamp="1610311844056" />
+    <state width="1870" height="517" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.168.1366.768@1366.0.1920.1080" timestamp="1610765111350" />
+    <state width="1870" height="517" key="GridCell.Tab.0.center" timestamp="1610765111350">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1316" height="350" key="GridCell.Tab.0.center/1366.0.1920.1080/0.168.1366.768@0.168.1366.768" timestamp="1610311844056" />
+    <state width="1870" height="517" key="GridCell.Tab.0.center/1366.0.1920.1080/0.168.1366.768@1366.0.1920.1080" timestamp="1610765111350" />
+    <state width="1870" height="517" key="GridCell.Tab.0.left" timestamp="1610765111350">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1316" height="350" key="GridCell.Tab.0.left/1366.0.1920.1080/0.168.1366.768@0.168.1366.768" timestamp="1610311844055" />
+    <state width="1870" height="517" key="GridCell.Tab.0.left/1366.0.1920.1080/0.168.1366.768@1366.0.1920.1080" timestamp="1610765111350" />
+    <state width="1870" height="517" key="GridCell.Tab.0.right" timestamp="1610765111350">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1316" height="350" key="GridCell.Tab.0.right/1366.0.1920.1080/0.168.1366.768@0.168.1366.768" timestamp="1610311844056" />
+    <state width="1870" height="517" key="GridCell.Tab.0.right/1366.0.1920.1080/0.168.1366.768@1366.0.1920.1080" timestamp="1610765111350" />
+    <state width="1316" height="228" key="GridCell.Tab.1.bottom" timestamp="1609726654774">
+      <screen x="0" y="168" width="1366" height="768" />
+    </state>
+    <state width="1316" height="228" key="GridCell.Tab.1.bottom/1366.0.1920.1080/0.168.1366.768@0.168.1366.768" timestamp="1609726654774" />
+    <state width="1316" height="228" key="GridCell.Tab.1.center" timestamp="1609726654774">
+      <screen x="0" y="168" width="1366" height="768" />
+    </state>
+    <state width="1316" height="228" key="GridCell.Tab.1.center/1366.0.1920.1080/0.168.1366.768@0.168.1366.768" timestamp="1609726654774" />
+    <state width="1316" height="228" key="GridCell.Tab.1.left" timestamp="1609726654774">
+      <screen x="0" y="168" width="1366" height="768" />
+    </state>
+    <state width="1316" height="228" key="GridCell.Tab.1.left/1366.0.1920.1080/0.168.1366.768@0.168.1366.768" timestamp="1609726654774" />
+    <state width="1316" height="228" key="GridCell.Tab.1.right" timestamp="1609726654774">
+      <screen x="0" y="168" width="1366" height="768" />
+    </state>
+    <state width="1316" height="228" key="GridCell.Tab.1.right/1366.0.1920.1080/0.168.1366.768@0.168.1366.768" timestamp="1609726654774" />
+    <state x="164" y="187" key="SettingsEditor" timestamp="1609526711280">
+      <screen x="0" y="168" width="1366" height="768" />
+    </state>
+    <state x="164" y="187" key="SettingsEditor/1366.0.1920.1080/0.168.1366.768@0.168.1366.768" timestamp="1609526711280" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SVMSklearn$main.coverage" NAME="main Coverage Results" MODIFIED="1610765076218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
